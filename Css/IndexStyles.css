@@ -439,6 +439,27 @@ a{
     outline: 2px solid #000;
 }
 
+
+
+.footer .mail{
+    margin-top: 100px;
+    text-align: center;
+    list-style: none;
+}
+
+.footer .mail a{
+    text-decoration: none;
+    
+    color: #000;
+    transition: .3s all ease;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+
+.footer .mail a:hover{
+    color: rgba(0, 0, 0, 0.589);
+}
+
 /*- - - - - - - - - - - - - - - - - - - - - - - -*/
 
 
